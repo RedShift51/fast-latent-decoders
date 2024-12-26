@@ -1,6 +1,6 @@
 # Fast Latent Decoders for Diffusion Models
 
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+[![License: arXiv](https://img.shields.io/badge/License-arXiv-yellow.svg)](https://arxiv.org/licenses/nonexclusive-distrib/1.0/)
 
 This repository contains **lightweight and fast decoders** for latent diffusion pipelines in both image and video generation. The work is described in the accompanying paper:
 

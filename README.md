@@ -197,8 +197,9 @@ You can also link back to this GitHub repository to help others easily find and 
 
 
 ## License
-This project is licensed under the [Apache 2.0 License](LICENSE).  
-Please see the [LICENSE](LICENSE) file for details about how you can use, modify, and distribute this codebase.
+This work is licensed under the arXiv.org perpetual, non-exclusive license.
+
+By submitting this work, the author(s) grant arXiv.org a perpetual, non-exclusive license to distribute this work. The author(s) retain all other rights, including copyright, to this work.
 
 
 ## References
